@@ -10,12 +10,12 @@ I thrive in **Agile environments** and enjoy tackling complex engineering challe
 
 My professional journey has allowed me to **gain significant experience** in:
 
-* **Modernizing and enhancing complex simulation systems:**
-* **Developing and updating high-fidelity simulation models:**
-* **Preparing and implementing embedded software:**
-* **Optimizing existing models:** 
-* **Building reliable CI/CD pipelines:** 
-* **Collaborating effectively in multidisciplinary teams:**
+* **Modernizing and enhancing complex simulation systems**
+* **Developing and updating high-fidelity simulation models**
+* **Preparing and implementing embedded software**
+* **Optimizing existing models** 
+* **Building reliable CI/CD pipelines** 
+* **Collaborating effectively in multidisciplinary teams**
 
 ---
 
